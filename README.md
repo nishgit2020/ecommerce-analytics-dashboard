@@ -129,10 +129,10 @@ Tools and technologies used in the project:
 ![Dashboard Page 1](images/1_dashboard_overview.png)
 
 ## Dashboard Page 2
-![Dashboard Page 2](images/2_seller_city_and_order_status_analysis.png)
+![Dashboard Page 2](images/2_top_product_categories_and_state_sales.png)
 
 ## Dashboard Page 3
-![Dashboard Page 3](images/3_top_product_categories_and_state_sales.png)
+![Dashboard Page 3](images/3_seller_city_and_order_status_analysis.png)
 
 ---
 
