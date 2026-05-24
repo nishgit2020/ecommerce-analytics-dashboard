@@ -125,13 +125,13 @@ Tools and technologies used in the project:
 
 # Dashboard Screenshots
 
-## Dashboard Page 1
+## KPI and monthly revenue trend 
 ![Dashboard Page 1](images/1_dashboard_overview.png)
 
-## Dashboard Page 2
+## top product categories and state sales
 ![Dashboard Page 2](images/2_top_product_categories_and_state_sales.png)
 
-## Dashboard Page 3
+## seller city and order status
 ![Dashboard Page 3](images/3_seller_city_and_order_status_analysis.png)
 
 ---
