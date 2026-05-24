@@ -32,6 +32,8 @@ Main datasets used:
 - order_reviews.csv
 - product_category_name_translation.csv
 
+Dataset files are excluded due to size limits. A sample dataset is included for reference.
+
 The datasets were connected using primary and foreign key relationships to create an analysis-ready final dataset.
 
 ---
